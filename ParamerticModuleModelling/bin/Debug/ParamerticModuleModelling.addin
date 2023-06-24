@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ParametricModelUI</Name>
+    <Assembly>ParamerticModuleModelling.dll</Assembly>
+    <ClientId>8f375669-c4ee-4370-af7e-de4283da066f</ClientId>
+    <FullClassName>ParamerticModuleModelling.ParametricModelUI</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+ 
+</RevitAddIns>

@@ -1,0 +1,13 @@
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\bin\Debug\x86\sqlite3.dll
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\bin\Debug\x64\sqlite3.dll
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.csproj.GenerateResource.cache
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.csproj.CoreCompileInputs.cache
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.csproj.CopyComplete
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\bin\Debug\ParamerticModuleModelling.dll.config
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\bin\Debug\ParamerticModuleModelling.dll
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\bin\Debug\ParamerticModuleModelling.pdb
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.Properties.Resources.resources
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.dll
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.pdb
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.InputParameter_stair.resources
+C:\Users\zjlz1162\source\repos\ParamerticModuleModelling\ParamerticModuleModelling\obj\Debug\ParamerticModuleModelling.TimerForm.resources
